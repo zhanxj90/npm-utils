@@ -8,7 +8,7 @@ npm install --save-dev npm-utils
 
 ## Usage
 ```js
-const utils from 'npm-utils'
+import utils from 'npm-utils'
 const formatText = utils.OmitEmo('sdfd👌')
 console.log(formatText) // 'sdfd'
 ```

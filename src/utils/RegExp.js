@@ -8,7 +8,7 @@ import {
  * @returns 
  */
 const OmitEmo = function (value){
-    const rep=new RegExp(EXP_OMIT_EMO,g)
+    const rep=new RegExp(EXP_OMIT_EMO,'g')
     return value.replace(rep, '')
 }
 
