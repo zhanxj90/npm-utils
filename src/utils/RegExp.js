@@ -1,6 +1,6 @@
 import {
     EXP_OMIT_EMO
-} from '../constant/exp'
+} from '@constant/exp'
 
 /**
  * @

@@ -12,3 +12,10 @@ import utils from 'npm-utils'
 const formatText = utils.OmitEmo('sdfd👌')
 console.log(formatText) // 'sdfd'
 ```
+
+## APi
+### 正则处理
+  1. 过滤表情
+      ```js
+      OmitEmo(String)
+      ```

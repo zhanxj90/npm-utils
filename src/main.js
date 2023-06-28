@@ -1,4 +1,4 @@
-import RegExp from './utils/RegExp'
+import RegExp from '@utils/RegExp'
 
 export default {
     ...RegExp,
