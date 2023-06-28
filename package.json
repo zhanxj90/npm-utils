@@ -1,7 +1,7 @@
 {
     "name": "@zhanxj/npm-utils",
     "description": "常用函数工具库",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "./dist/utils.min.js",
     "scripts": {
         "test": "jest",
